@@ -1,7 +1,7 @@
 ﻿// Task 23
 // Напишите программу, которая принимает на вход число (N) и выдаёт таблицу кубов чисел от 1 до N
 
-Console.WriteLine("----- Task 21 -----");
+Console.WriteLine("----- Task 23 -----");
 Console.WriteLine("Enter a number (from 1 to N)");
 
 string num = Console.ReadLine().Trim();
@@ -12,8 +12,8 @@ if (!int.TryParse(num, out tmp)) {
     Environment.Exit(1);
 }
 
-if (tmp < 0) {
-    Console.WriteLine("Error: number should be positive");
+if (tmp < 1) {
+    Console.WriteLine("Error: number should be positive and greater than 0");
     Environment.Exit(1);
 }
 
