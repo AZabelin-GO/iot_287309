@@ -1,0 +1,15 @@
+/Users/azabelin/Projects/study/gb_iot/gb_languages/iot_287309/lesson-8/task-62/bin/Debug/net7.0/task-62
+/Users/azabelin/Projects/study/gb_iot/gb_languages/iot_287309/lesson-8/task-62/bin/Debug/net7.0/task-62.deps.json
+/Users/azabelin/Projects/study/gb_iot/gb_languages/iot_287309/lesson-8/task-62/bin/Debug/net7.0/task-62.runtimeconfig.json
+/Users/azabelin/Projects/study/gb_iot/gb_languages/iot_287309/lesson-8/task-62/bin/Debug/net7.0/task-62.dll
+/Users/azabelin/Projects/study/gb_iot/gb_languages/iot_287309/lesson-8/task-62/bin/Debug/net7.0/task-62.pdb
+/Users/azabelin/Projects/study/gb_iot/gb_languages/iot_287309/lesson-8/task-62/obj/Debug/net7.0/task-62.csproj.AssemblyReference.cache
+/Users/azabelin/Projects/study/gb_iot/gb_languages/iot_287309/lesson-8/task-62/obj/Debug/net7.0/task-62.GeneratedMSBuildEditorConfig.editorconfig
+/Users/azabelin/Projects/study/gb_iot/gb_languages/iot_287309/lesson-8/task-62/obj/Debug/net7.0/task-62.AssemblyInfoInputs.cache
+/Users/azabelin/Projects/study/gb_iot/gb_languages/iot_287309/lesson-8/task-62/obj/Debug/net7.0/task-62.AssemblyInfo.cs
+/Users/azabelin/Projects/study/gb_iot/gb_languages/iot_287309/lesson-8/task-62/obj/Debug/net7.0/task-62.csproj.CoreCompileInputs.cache
+/Users/azabelin/Projects/study/gb_iot/gb_languages/iot_287309/lesson-8/task-62/obj/Debug/net7.0/task-62.dll
+/Users/azabelin/Projects/study/gb_iot/gb_languages/iot_287309/lesson-8/task-62/obj/Debug/net7.0/refint/task-62.dll
+/Users/azabelin/Projects/study/gb_iot/gb_languages/iot_287309/lesson-8/task-62/obj/Debug/net7.0/task-62.pdb
+/Users/azabelin/Projects/study/gb_iot/gb_languages/iot_287309/lesson-8/task-62/obj/Debug/net7.0/task-62.genruntimeconfig.cache
+/Users/azabelin/Projects/study/gb_iot/gb_languages/iot_287309/lesson-8/task-62/obj/Debug/net7.0/ref/task-62.dll
